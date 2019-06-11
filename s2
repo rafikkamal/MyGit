@@ -6,3 +6,4 @@ server:128.1.1.1
 port:8080
 server:128.0.0.2
 port:8888
+authentication-server:12.32.45.12
