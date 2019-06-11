@@ -1,5 +1,6 @@
 project 1
 url:www.project.com
+sdn-server:10.10.1.10
 country:bd
 currency:taka
 ip:127.0.0.1
