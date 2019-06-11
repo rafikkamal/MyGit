@@ -1,0 +1,7 @@
+project 1
+url:www.project.com
+country:bd
+currency:taka
+ip:127.0.0.1
+port:80
+live:false
